@@ -27,7 +27,9 @@ pip install chainlit langchain langchain-groq python-dotenv
 GROQ_API_KEY=your_groq_api_key_here
 ```
 3️⃣ **Start the Chainlit app**
+```
 chainlit run main.py
+````
 
 ---
 
